@@ -41,7 +41,7 @@ This project is focused on analyzing a large corpus of financial news data to di
 
 1. Clone the repository:
    ```
-   git clone https://github.com/OL-YAD/Financial-news-Stock-Analysis.git
+   git clone https://github.com/nifomohad/Nova-challenge-week.git
    cd Financial-news-Stock-Analysis
    ```
 
@@ -55,22 +55,6 @@ This project is focused on analyzing a large corpus of financial news data to di
    ```
    pip install -r requirements.txt
    ```
-
-## Running the Streamlit App
-
-To run the Streamlit app locally:
-
-1. Ensure you're in the project directory and your virtual environment is activated (if you're using one).
-
-2. Run the following command:
-   ```
-   streamlit run app.py
-   ```
-
-## Data Sources
-
-- Historical stock data: Retrieved from Yahoo Finance
-- News sentiment data: Collected from financial news sources 
 
 
 ## Contact
